@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an Expo managed workflow project that uses a third-party library that requires native modules.  Expo Go does not support native modules directly.  Attempting to run the app results in a runtime error related to the missing native module.
